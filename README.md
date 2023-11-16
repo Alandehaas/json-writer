@@ -1,3 +1,4 @@
+in the root folder;
 # docker build -t jsonwriter .
 # docker compose up -d
 # visit http://localhost:3000/
